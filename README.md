@@ -14,6 +14,8 @@ This project consists of taking a starter code and modifying it to increase its 
 The starter code for this project has been downloaded from the following repository:
 https://github.com/coding-boot-camp/urban-octo-telegram
 
+I followed the suggestions regarding alt text in HTML/CSS images found in the CANAdapt [website](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+
 ## License
 
 MIT License
