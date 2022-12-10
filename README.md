@@ -4,7 +4,7 @@
 
 This project consists of taking a starter code and modifying it to increase its accessibility. The client, a marketing agency, wants us to refactor an existing site and make sure it follows accessibility standards and optimize it for all search engines. 
 
-![](./Develop/assets/images/Screenshot-for-README.png)
+![](./assets/images/Screenshot-for-README.png)
 
 ## Deployment
 
