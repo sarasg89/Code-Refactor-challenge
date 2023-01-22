@@ -8,7 +8,7 @@ This project consists of taking a starter code and modifying it to increase its 
 
 ## Deployment
 
-https://sarasg89.github.io/Module-01-Challenge/
+https://sarasg89.github.io/Code-Refactor-challenge/
 
 ## Credits
 
